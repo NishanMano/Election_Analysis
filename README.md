@@ -96,6 +96,7 @@ There is quite a large margin between the first place candidate and the second p
 ---
 
 Future Opportunities:
+---
 
 1. We can easily take in more data and be able to change the size of election from just 3 counties to multiple different states or even possibly the nation's election. 
 

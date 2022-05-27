@@ -92,3 +92,14 @@ Raymon Anthony Doane = 11 606 / 369 711 = 3.1% of the votes
 Q5. Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 There is quite a large margin between the first place candidate and the second place candidate. Diana Degette won by 50.8% more votes than the runner-up Charles Casper Stocham. There is a clear majority of votes for Diana and her policies must closely align with the majority of the population in those specific areas. 
+
+---
+
+Future Opportunities:
+
+1. We can easily take in more data and be able to change the size of election from just 3 counties to multiple different states or even possibly the nation's election. 
+
+2. We can also modify the code to alter the number of candidates that could presently run, this way we can handle larger elections as there are more candidates running in national elections in comparison to regional elections. 
+
+3. We can even modify the code to find out the voter turnout in each state. Use this data to start figuring out why there are lower voter turn outs at these states and place policies to encourage voting. 
+
